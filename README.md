@@ -50,7 +50,6 @@ Helps businesses design targeted marketing strategies and personalized offers
 Suggestions provided for enhancing the model and incorporating RFM features in future versions
 
 ## 🛠️ Technologies Used
-Tool	Purpose
 🐍 Python	Core programming
 🌐 Streamlit	Interactive web app
 📊 Pandas, NumPy	Data manipulation
@@ -58,22 +57,16 @@ Tool	Purpose
 🤖 Scikit-learn	Machine learning (K-Means)
 📦 StandardScaler, PCA	Preprocessing & dimensionality reduction
 
-## 🚀 How to Run the Project
-bash
-Copy
-Edit
-### 1️⃣ Clone the Repository
-git clone https://github.com/your-username/retail-kmeans-clustering.git
-
-### 2️⃣ Navigate to the folder
-cd retail-kmeans-clustering
-
-### 3️⃣ Install the dependencies
+## 🚀 How to Run the Project:
+#### Clone this repository:
+git clone https://github.com/your-repo-name.git
+#### Navigate to the project folder:
+cd your-project-folder
+#### Install required dependencies:
 pip install -r requirements.txt
-
-### 4️⃣ Launch the Streamlit app
+#### Run the Streamlit app:
 streamlit run app.py
-Then open http://localhost:8501 in your browser to explore! 🎉
+Open the app in your browser (default: http://localhost:8501) and explore! 🌟
 
 ## 📊 Sample Visualizations
 📈 Line plots for customer behavior over time
